@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhananjay-tyagi
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Dev,Cloud,New Tech.
 - 🌱 I’m currently learning Advance java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
