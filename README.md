@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhananjay-tyagi
-- 👀 I’m interested in Dev,Cloud,New Tech.
-- 🌱 I’m currently learning Advance java
+- 👀 I’m interested in Dev,AI&ML and New Tech.
+- 🌱 I’m currently learning ML 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
